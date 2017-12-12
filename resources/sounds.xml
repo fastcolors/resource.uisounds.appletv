@@ -64,11 +64,4 @@
 			<file>Back.wav</file>
 		</action>
 	</actions>
-
-	<windows>
-		<window>
-			<name>1157</name><!-- Custom_DummyDialog dialog to trigger navigation sound -->
-			<activate>bump.wav</activate>
-		</window>
-	</windows>
 </sounds>
